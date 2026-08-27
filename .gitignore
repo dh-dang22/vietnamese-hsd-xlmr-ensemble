@@ -1,0 +1,14 @@
+data/*
+!data/sample_public_test.csv
+*.csv
+*.zip
+*.pth
+*.pt
+*.h5
+*.pkl
+models/*
+!models/README.md
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
